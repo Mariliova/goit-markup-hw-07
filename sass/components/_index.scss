@@ -3,7 +3,17 @@
 @forward 'site-nav';
 @forward 'auth-nav';
 
+@forward 'hero';
+@forward 'features';
+@forward 'activities';
+@forward 'team';
+@forward 'clients';
+
 @forward 'page-footer';
 @forward 'contacts';
 @forward 'socials';
-@forward 'page-footer__form';
+@forward 'page-footer-form';
+@forward 'modal';
+@forward 'modal-form';
+
+@forward 'portfolio';
